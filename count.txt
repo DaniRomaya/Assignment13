@@ -1,0 +1,5 @@
+English 20
+Science 17
+Biology 20
+Math 24
+History 19
